@@ -1,0 +1,5 @@
+c:\users\bongkot-bpg\documents\visual studio 2010\Projects\BLESerial\BLESerial\bin\Debug\BLESerial.exe
+c:\users\bongkot-bpg\documents\visual studio 2010\Projects\BLESerial\BLESerial\bin\Debug\BLESerial.pdb
+c:\users\bongkot-bpg\documents\visual studio 2010\Projects\BLESerial\BLESerial\obj\x86\Debug\BLESerial.exe
+c:\users\bongkot-bpg\documents\visual studio 2010\Projects\BLESerial\BLESerial\obj\x86\Debug\BLESerial.pdb
+C:\Users\bongkot-bpg\documents\visual studio 2010\Projects\BLESerial\BLESerial\obj\x86\Debug\BLESerial.csprojResolveAssemblyReference.cache
